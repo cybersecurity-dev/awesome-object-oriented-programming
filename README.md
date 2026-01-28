@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** [Object-oriented](https://wikipedia.org/wiki/Object-oriented_programming) Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** Object-oriented (_[OOP](https://wikipedia.org/wiki/Object-oriented_programming)_) Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
@@ -20,6 +20,17 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+## Principles of OOP
+
+### Encapsulation
+
+### Abstraction
+
+### Inheritance
+
+### Polymorphism
+
+
 
 ##
 
@@ -32,4 +43,4 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-object-oriented-programming/graphs/contributors)!
 
-[🔼 Back to top](#awesome-object-oriented-programming-)
+[🔼 Back to top](#awesome-object-oriented-oop-programming-)
